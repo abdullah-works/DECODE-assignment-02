@@ -2,7 +2,7 @@
 
 This (repository) is a flutter project containing Dart code (solution) for the Assignment No.02 given as part of the overall assessment during the DECODE Flutter Training.
 
-# Requirements
+## Requirements
 
 Create a Flutter app showing all the players of the Pakistan Cricket Team using ListView along with other widgets such as Card etc for displaying each player beautifully.
 
